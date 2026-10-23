@@ -1,4 +1,4 @@
-# Hey, I'm Rathan Kumar 👋
+# Hey, I'm Rathan👋
 
 ### Senior Software Engineer · Python & Django · Agentic AI
 
