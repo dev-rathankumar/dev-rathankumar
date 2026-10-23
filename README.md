@@ -12,7 +12,7 @@ I build scalable web applications, intelligent AI systems, and developer-focused
   <a href="https://techwithrathan.com"><img src="https://img.shields.io/badge/Website-Tech%20With%20Rathan-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website" /></a>
   <a href="https://www.youtube.com/@rathankumar"><img src="https://img.shields.io/badge/YouTube-Tech%20With%20Rathan-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/rathan-kumar492/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Contact-Let's%20Connect-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact" /></a>
+  <a href="mailto:developer.rathan@gmail.com"><img src="https://img.shields.io/badge/Contact-Let's%20Connect-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact" /></a>
 </p>
 
 ---
@@ -73,39 +73,6 @@ class RathanKumar:
 `PostgreSQL` · `MySQL` · `SQLite` · `Docker` · `AWS S3` · `Nginx` · `Gunicorn` · `Linux` · `Git` · `GitHub Actions` · `CI/CD`
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 GreatKart — Django eCommerce</h3>
-      A full-featured eCommerce application built with Django, featuring product variants, order management, ratings, and more.
-      <br/><br/>
-      <a href="https://github.com/dev-rathankumar/greatkart-course"><img src="https://img.shields.io/badge/Explore-Repository-238636?style=for-the-badge&logo=github" alt="GreatKart repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 CarZone</h3>
-      A Python-based web application demonstrating backend development and practical web application architecture.
-      <br/><br/>
-      <a href="https://github.com/dev-rathankumar/carzone-gitproject"><img src="https://img.shields.io/badge/Explore-Repository-238636?style=for-the-badge&logo=github" alt="CarZone repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍔 FoodOnline</h3>
-      A food ordering web application showcasing Django development and application workflows.
-      <br/><br/>
-      <a href="https://github.com/dev-rathankumar/foodOnline"><img src="https://img.shields.io/badge/Explore-Repository-238636?style=for-the-badge&logo=github" alt="FoodOnline repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Automate with Django</h3>
-      Exploring automation and JavaScript integrations to build more efficient web application workflows.
-      <br/><br/>
-      <a href="https://github.com/dev-rathankumar/automate-with-django"><img src="https://img.shields.io/badge/Explore-Repository-238636?style=for-the-badge&logo=github" alt="Automate with Django repository" /></a>
-    </td>
-  </tr>
-</table>
 
 ### 🧠 AI & Machine Learning
 
