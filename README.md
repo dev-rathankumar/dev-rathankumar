@@ -8,12 +8,32 @@ I build scalable web applications, intelligent AI systems, and developer-focused
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+FastAPI;Building+AI+Agents+%26+RAG+Systems;Backend+Engineering+%7C+REST+APIs;Learning%2C+Building%2C+Sharing+Knowledge" alt="Typing introduction" />
 </p>
 
+
+
+
+
 <p align="center">
-  <a href="https://techwithrathan.com"><img src="https://img.shields.io/badge/Website-Tech%20With%20Rathan-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website" /></a>
-  <a href="https://www.youtube.com/@rathankumar"><img src="https://img.shields.io/badge/YouTube-Tech%20With%20Rathan-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
-  <a href="https://www.linkedin.com/in/rathan-kumar492/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:developer.rathan@gmail.com"><img src="https://img.shields.io/badge/Contact-Let's%20Connect-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact" /></a>
+  <a href="https://techwithrathan.com">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@rathankumar">
+    <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  
+<a href="https://www.linkedin.com/in/rathan-kumar492/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" height="45" />
+</a>
+  &nbsp;&nbsp;
+  <a href="mailto:developer.rathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" height="45" />
+  </a>
 </p>
+
+
+
+
 
 ---
 
